@@ -1,0 +1,56 @@
+body
+{
+    background-color: bisque;
+}
+
+.urun-1
+{
+background-color: rgb(153, 132, 121);
+border-radius: 8px;
+}
+
+.barcelona-3900
+{
+    width: 150px;
+    height: 200px;
+    margin-top: 10px;
+}
+
+.urun-2
+{
+background-color: rgb(153, 132, 121);
+border-radius: 8px;
+}
+
+.barcelonaLC
+{
+    width: 150px;
+    height: 200px;
+    margin-top: 10px;
+}
+
+.urun-3
+{
+    background-color: rgb(153, 132, 121);
+    border-radius: 8px;
+}
+
+.casio-piyano
+{
+    width: 150px;
+    height: 200px;
+    margin-top: 10px; 
+}
+
+.urun-4
+{
+    background-color: rgb(153, 132, 121);
+    border-radius: 8px;
+}
+
+.keman
+{
+    width: 150px;
+    height: 200px;
+    margin-top: 10px;
+}
